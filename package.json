@@ -1,0 +1,22 @@
+{
+  "name": "discord",
+  "version": "1.0.0",
+  "description": "here is the bot psycho",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clashxd/psycho-dc.git"
+  },
+  "author": "clash",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clashxd/psycho-dc/issues"
+  },
+  "homepage": "https://github.com/clashxd/psycho-dc#readme",
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
